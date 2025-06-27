@@ -2,6 +2,7 @@
 <html lang="en">
  <head>
    <meta charset="utf-8">
+  <link rel="stylesheet" href="looks.css">
  </head>
  <body>
    <h1>FUN AND SNAZZY</h1>
