@@ -7,6 +7,10 @@
  <body>
    <h1>FUN AND SNAZZY</h1>
    <h2>home based boutique</h2>
-   listings go here i think
+   <p>listings go here i think<br>
+  how do you even put listings in, anyway?<br>
+  and why is is called a listing, anyway?<br>
+  it doesnt even list anything...</p><br>
  </body>
+ <footer> like and subscribe</footer>
 </html>
